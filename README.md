@@ -1,4 +1,4 @@
-# hello! my name is claudio (they/them).
+# hello! my name is claudio (they/them). 🛹💻🌤🎧🌱
 
 feel free to connect with me via [linkedin](https://www.linkedin.com/in/claudio-r-castillo/) and check out my repo containing [research opportunities in HCI](https://github.com/claudio-codebase/HCI_Research_Opps)!
 
