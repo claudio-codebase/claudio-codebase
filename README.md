@@ -5,7 +5,7 @@ feel free to connect with me via [linkedin](https://www.linkedin.com/in/claudio-
 
 i am currently a computer science student at pomona college in claremont, california. having lived, worked, and studied out of los angeles and orange counties, i reside on tongva land.
 
-this past summer, i participated in microsoft and cyborg mobile's TNT program as a [new technologist](https://newtechnologists.com/). there, my team and i worked on a project to protect women against the harms of deepfake technologies through a MVP prototype primarily built using React. this was an amazing opportunity to blend my passion for social advocacy, tactful human-centered engineering, and technology.
+this past summer, i participated in microsoft and cyborg mobile's TNT program as a [new technologist](https://newtechnologists.com/). there, my team and i worked on a project to protect women against the harms of deepfake technologies through a MVP prototype primarily built using React. this was an amazing opportunity to blend my passion for social advocacy and tactful human-centered sofware engineering.
 
 i currently work as a service desk supervisor at pomona college information technology services. i also provide campus tours, lead panels, and staff outreach events as a tour guide at the pomona college office of admissions. during the spring 2024 semester, i will serve as a teaching assistant for cs 051p - introduction to computer science in the department of computer science at pomona college. 
 
