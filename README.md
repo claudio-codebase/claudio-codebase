@@ -13,4 +13,4 @@ on campus, i am a head coordinator for [black and brown in computer science](htt
 
 during the upcoming spring 2024 semester, i will be a teaching assistant for cs 051p - introduction to computer science in the department of computer science at pomona college. during summer 2024, i will be an explorer intern at microsoft.
 
-i am passionate about technology, new digital media/art, social advocacy, urban systems, museums, bookstores, small-scale farming, and amplifying educational and professional opportunities for underserved or underrepresented students. feel free to reach out to me and let's have a conversation! 
+i am passionate about technology, new digital media/art, social advocacy, urban systems, museums, bookstores, small-scale farming, and amplifying educational and professional opportunities for underserved or underrepresented students. i also appreciate music and skate videos. feel free to reach out to me and let's have a conversation! 
