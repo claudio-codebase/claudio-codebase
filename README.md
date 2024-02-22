@@ -11,6 +11,6 @@ i currently work as a service desk supervisor at pomona college information tech
 
 on campus, i am a head coordinator for [black and brown in computer science](https://www.instagram.com/bbicspomona/), serve on the board for [the latinx alliance](https://www.instagram.com/pomonalxa/), and sit on the academic affairs committee. through these positions, i advocate for education and technology equailty/access. my service positions on campus include volunteering my time to my [sponsees](https://voices.pomona.edu/2014/03/anatomy-of-a-sponsor-group/) in my residence hall and volunteering at the draper center for community partnerships' [PAYS](https://www.pomona.edu/administration/draper-center/pays), as well as delivering food for the Food Recovery Network program. 
 
-during the upcoming spring 2024 semester,  during summer 2024, i will be an explorer intern at microsoft.
+summer 2024, i will be an explorer intern at microsoft.
 
 i am passionate about technology, new digital media/art, social advocacy, urban systems, museums, bookstores, small-scale farming, and amplifying educational and professional opportunities for underserved or underrepresented students. i also appreciate music and skate videos. feel free to reach out to me and let's have a conversation! 
