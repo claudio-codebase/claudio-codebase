@@ -1,16 +1,28 @@
 # hello! my name is claudio (they/them). 🛹💻🌤🎧🌱
 
-feel free to connect with me via [linkedin](https://www.linkedin.com/in/claudio-r-castillo/) and check out my repo containing [research opportunities in HCI](https://github.com/claudio-codebase/HCI_Research_Opps)!
+feel free to connect with me via [linkedin](https://www.linkedin.com/in/claudio-r-castillo/).
 
+i am currently a computer science student at pomona college in claremont, california. having lived, worked, and studied out of los angeles and orange counties, i currently reside on unceded tongva land. on campus, i am involved in student governance, diversity and equity initiatives, and educational advocacy.
 
-i am currently a computer science student at pomona college in claremont, california. having lived, worked, and studied out of los angeles and orange counties, i reside on tongva land.
+this summer 2024, i am working as an intern at microsoft in redmond, wa -- unceded coast salish land and duwamish land.
 
-this past summer, i participated in microsoft and cyborg mobile's TNT program as a [new technologist](https://newtechnologists.com/). there, my team and i worked on a project to protect women against the harms of deepfake technologies through a MVP prototype primarily built using React. this was an amazing opportunity to blend my passion for social advocacy and tactful human-centered sofware engineering.
+i am a technologist and community advocate. i seek to learn from marginalized voices and stories to create a liberatory world alongside those who have been working toward this goal for years.
 
-i currently work as a service desk supervisor at pomona college information technology services. i also provide campus tours, lead panels, and staff outreach events as a tour guide at the pomona college office of admissions. this semester, i started a position as a teaching assistant for cs 051p - introduction to computer science in the department of computer science at pomona college. additionally, i am a career fellow in the [smart start program](https://www.pomona.edu/administration/career-development/career-advising-resources/smart-start) at pomona college, and a career prep fellow at [management leadership for tommorrow](https://mlt.org/career-prep/) on the software engineering track. this past semester, i have also benefitted as a mentee and participant in google's [computer science research mentorship program](https://research.google/outreach/csrmp/).
+in particular, i am interested about education access and alternative histories/realities of computing. what might it look like to have a care-first approach to learning and connecting? how might we have used modern solutions as an extension of colonial expansion across the globe? how might we connect the information we consume to what we learn to become and what does that say about us as 'users'? i ask myself these questions everyday at school, work, and home. 
 
-on campus, i am a head coordinator for [black and brown in computer science](https://www.instagram.com/bbicspomona/), serve on the board for [the latinx alliance](https://www.instagram.com/pomonalxa/), and sit on the academic affairs committee. through these positions, i advocate for education and technology equailty/access. my service positions on campus include volunteering my time to my [sponsees](https://voices.pomona.edu/2014/03/anatomy-of-a-sponsor-group/) in my residence hall and volunteering at the draper center for community partnerships' [PAYS](https://www.pomona.edu/administration/draper-center/pays), as well as delivering food for the Food Recovery Network program. 
+i am otherwise very interested in new digital media projects, art museums, urban planning and advocacy, sticker street art, used bookstores, and attending local concerts.
 
-summer 2024, i will be an explorer intern at microsoft.
+please reach out to me via linkedin (or request my email) if you have any concerns, ideas, or questions.
 
-i am passionate about technology, new digital media/art, social advocacy, urban systems, museums, bookstores, small-scale farming, and amplifying educational and professional opportunities for underserved or underrepresented students. i also appreciate music and skate videos. feel free to reach out to me and let's have a conversation! 
+in the past or present, i have had the following involvements. * indicates present activity:
+- * VP of Academic Affairs @ Associated Students of Pomona College
+- * Coordinator @ Black and Brown in Computer Science
+- * ITS Service Desk Supervisor @ Pomona College ITS
+- * Explore Intern @ Microsoft
+- Teaching Assistant @ Pomona College Dept. of Computer Science
+- Tour Guide @ Pomona College Office of Admissions
+- New Technologist @ Cyborg Mobile LLC (Microsoft Vendor)
+- Smart Start Career Fellow @ Pomona College CDO
+- Mentee @ Google Computer Science Research Mentorship Program
+- Academy Scholar @ LA-Tech IT Academy
+- Advocacy Intern @ New Roots Institute
