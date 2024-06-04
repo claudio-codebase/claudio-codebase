@@ -14,11 +14,13 @@ i am otherwise very interested in new digital media projects, art museums, urban
 
 please reach out to me via linkedin (or request my email) if you have any concerns, ideas, or questions.
 
-in the past or present, i have had the following involvements. * indicates present activity:
-- * VP of Academic Affairs @ Associated Students of Pomona College
-- * Coordinator @ Black and Brown in Computer Science
-- * ITS Service Desk Supervisor @ Pomona College ITS
-- * Explore Intern @ Microsoft
+present involvements:
+* VP of Academic Affairs @ Associated Students of Pomona College
+* Coordinator @ Black and Brown in Computer Science
+* ITS Service Desk Supervisor @ Pomona College ITS
+* Explore Intern @ Microsoft
+
+past involvements:
 - Teaching Assistant @ Pomona College Dept. of Computer Science
 - Tour Guide @ Pomona College Office of Admissions
 - New Technologist @ Cyborg Mobile LLC (Microsoft Vendor)
