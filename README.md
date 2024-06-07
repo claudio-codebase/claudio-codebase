@@ -12,13 +12,13 @@ i am otherwise very interested in new digital media projects, art museums, urban
 
 please reach out to me via [linkedin](https://www.linkedin.com/in/claudio-r-castillo/) if you have any ideas or questions.
 
-### present involvements:
-VP of Academic Affairs @ Associated Students of Pomona College
+### present experiences:
+* VP of Academic Affairs @ Associated Students of Pomona College
 * Coordinator @ Black and Brown in Computer Science
 * ITS Service Desk Supervisor @ Pomona College ITS
 * Explore Intern @ Microsoft
 
-past involvements:
+### previous experiences:
 - Teaching Assistant @ Pomona College Dept. of Computer Science
 - Tour Guide @ Pomona College Office of Admissions
 - New Technologist @ Cyborg Mobile LLC (Microsoft Vendor)
